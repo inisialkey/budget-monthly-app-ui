@@ -28,7 +28,9 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  circle_progress_bar: ^0.1.3
   cupertino_icons: ^1.0.6
+  fl_chart: ^0.69.2
   flutter:
     sdk: flutter
   flutter_custom_clippers: ^2.1.0
